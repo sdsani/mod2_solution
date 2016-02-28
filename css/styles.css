@@ -13,12 +13,12 @@ h2{
     text-align: center;
     float: right;    
     width: 140px;
-    border: 1px solid black;
-    margin-top: auto;
+    border: 1px solid black;    
+    position: relative;
 }
 
 section{
-    height: 140px;
+    height: 150px;
     background-color: lightgray;
     margin-left: 1%;
     margin-bottom: 1%;
@@ -26,18 +26,19 @@ section{
 
 p{
     clear: right;
+    padding: 10px;
 }
 
 .h2chicken{
-    background-color: coral;
+    background-color: #FF7F50;
 }
 
 .h2beef{
-    background-color: brown;
+    background-color: #A52A2A;
 }
 
 #h2sushi{
-    background-color: greenyellow;
+    background-color: #ADFF2F;
 }
 
 
